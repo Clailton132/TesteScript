@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="PrologInterfaceWeb/src"/>
+	<classpathentry kind="src" path="PrologWebService/src/main/java"/>
+	<classpathentry kind="src" path="PrologWebService/src/test/java"/>
+	<classpathentry kind="src" path="xorshift/src"/>
+	<classpathentry kind="src" path="ZalfWeb/src"/>
+	<classpathentry kind="lib" path="PrologWebService/src/main/webapp/WEB-INF/lib/logica-projeto.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="PrologInterfaceWeb/target/classes"/>
+</classpath>
